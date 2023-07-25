@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-public class BadCodeClassTests {
+class BadCodeClassTests {
 
     @Test
     @DisplayName("With empty input throws exception")
